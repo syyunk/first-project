@@ -1,0 +1,39 @@
+BODY {
+	FONT-SIZE: 9pt; COLOR: #ff8000; LINE-HEIGHT: 160%; FONT-FAMILY: 맑은 고딕,verdana,tahoma; 
+	background-color: #ffffff;
+}
+TABLE {
+	width: 500; margin: auto; text-align: center; border: 1px solid #77878F; border-collapse: collapse; background-color: rgb(255, 255, 255);
+}
+TR {
+	FONT-SIZE: 9pt; COLOR: #bed573; LINE-HEIGHT: 160%; FONT-FAMILY: 맑은 고딕,verdana,tahoma; border: 1px solid #bed573; padding: 5px;
+}
+TD {
+	FONT-SIZE: 9pt; COLOR: #bed573; LINE-HEIGHT: 160%; FONT-FAMILY: 맑은 고딕,verdana,tahoma; border: 1px solid #bed573; padding: 5px;
+}
+SELECT {
+	FONT-SIZE: 9pt; COLOR: #77878F; LINE-HEIGHT: 160%; FONT-FAMILY: 맑은 고딕,verdana,tahoma
+}
+DIV {
+	FONT-SIZE: 9pt; COLOR: #bed573; LINE-HEIGHT: 160%; FONT-FAMILY: 맑은 고딕,verdana,tahoma
+}
+FORM {
+	FONT-SIZE: 9pt; COLOR: #bed573; LINE-HEIGHT: 160%; FONT-FAMILY: 맑은 고딕,verdana,tahoma
+}
+TEXTAREA {
+	BORDER-RIGHT: 1px solid #bed573; BORDER-TOP: 1px solid #bed573; FONT-SIZE: 9pt; BORDER-LEFT: 1px solid #b68a50 ; COLOR: #946d3f; BORDER-BOTTOM: 1px solid #b68a50; FONT-FAMILY: 맑은 고딕,verdana; BACKGROUND-COLOR: white
+}
+INPUT {
+	BORDER-RIGHT: 1px solid #bed573; BORDER-TOP: 1px solid #bed573; FONT-SIZE: 9pt; BORDER-LEFT: 1px solid #bed573; COLOR: #946d3f; BORDER-BOTTOM: 1px solid #bed573; FONT-FAMILY: 맑은 고딕,verdana; HEIGHT: 19px; BACKGROUND-COLOR: #bed573;
+}
+BUTTON {
+	BORDER-RIGHT: 1px solid #bed573; BORDER-TOP: 1px solid #bed573; FONT-SIZE: 9pt; BORDER-LEFT: 1px solid #bed573; COLOR: #ffffff; BORDER-BOTTOM: 1px solid #bed573; FONT-FAMILY: 맑은 고딕,verdana; HEIGHT: 19px; BACKGROUND-COLOR: #bed573;
+}
+
+A:link {text-decoration:none;color:#b5c6c4}
+A:hover{text-decoration:yes;color:#77878F}
+A:visited {text-decoration:none;color:rgb(255, 128, 0)}
+
+.darktext {
+	color:#b68a50
+}
